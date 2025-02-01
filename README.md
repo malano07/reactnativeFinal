@@ -42,7 +42,7 @@ La aplicación cuenta con una barra de navegación inferior con cuatro botones:
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/mm7-ecommerce.git`
+1. Clona el repositorio: `git clone https://github.com/malano07/reactnativeFinal.git`
 2. Instala las dependencias: `npm install`
 3. Configura las claves de API para Firebase y Expo-Location.
 4. Configura las credenciales de Firebase en tu proyecto.
