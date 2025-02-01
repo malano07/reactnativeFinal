@@ -1,0 +1,351 @@
+[
+    {
+      "title": "Nike Air Max",
+      "description": "Zapatillas deportivas con tecnología Air para mayor comodidad.",
+      "price": 150,
+      "stock": 20,
+      "category": "zapatillas",
+      "thumbnail": "https://i.imgur.com/YOUR_IMAGE_1.jpg"
+    },
+    {
+      "title": "Adidas Ultraboost",
+      "description": "Zapatillas de running con amortiguación Boost para máximo rendimiento.",
+      "price": 180,
+      "stock": 15,
+      "category": "zapatillas",
+      "thumbnail": "https://i.imgur.com/YOUR_IMAGE_2.jpg"
+    },
+    {
+      "title": "Puma RS-X",
+      "description": "Zapatillas urbanas con diseño futurista y tecnología RS para mayor confort.",
+      "price": 130,
+      "stock": 25,
+      "category": "zapatillas",
+      "thumbnail": "https://i.imgur.com/YOUR_IMAGE_3.jpg"
+    },
+    {
+      "title": "Reebok Classic Leather",
+      "description": "Clásicas zapatillas de cuero para un estilo retro y casual.",
+      "price": 100,
+      "stock": 30,
+      "category": "zapatillas",
+      "thumbnail": "https://i.imgur.com/YOUR_IMAGE_4.jpg"
+    },
+    {
+      "title": "New Balance 574",
+      "description": "Zapatillas con diseño clásico y suela de espuma EVA para mayor comodidad.",
+      "price": 110,
+      "stock": 18,
+      "category": "zapatillas",
+      "thumbnail": "https://i.imgur.com/YOUR_IMAGE_5.jpg"
+    },
+    {
+      "title": "Converse Chuck Taylor",
+      "description": "Zapatillas icónicas de lona con suela de goma para un look casual.",
+      "price": 90,
+      "stock": 40,
+      "category": "zapatillas",
+      "thumbnail": "https://i.imgur.com/YOUR_IMAGE_6.jpg"
+    },
+    
+         {
+          "title": "Muñequera Nike Pro",
+          "description": "Muñequera absorbente con logo Nike bordado.",
+          "price": 20,
+          "stock": 50,
+          "category": "accesorios",
+          "thumbnail": "https://i.imgur.com/YOUR_IMAGE_37.jpg"
+        },
+        {
+          "title": "Mochila Adidas Tiro",
+          "description": "Mochila deportiva con múltiples compartimentos y logo Adidas.",
+          "price": 65,
+          "stock": 30,
+          "category": "accesorios",
+          "thumbnail": "https://i.imgur.com/YOUR_IMAGE_38.jpg"
+        },
+        {
+          "title": "Gafas de Sol Oakley",
+          "description": "Lentes de sol con protección UV y diseño deportivo.",
+          "price": 120,
+          "stock": 20,
+          "category": "accesorios",
+          "thumbnail": "https://i.imgur.com/YOUR_IMAGE_39.jpg"
+        },
+        {
+          "title": "Guantes Under Armour",
+          "description": "Guantes térmicos con agarre mejorado para entrenamientos al aire libre.",
+          "price": 45,
+          "stock": 25,
+          "category": "accesorios",
+          "thumbnail": "https://i.imgur.com/YOUR_IMAGE_40.jpg"
+        },
+        {
+          "title": "Riñonera Puma Running",
+          "description": "Riñonera compacta con cierre seguro y ajuste ergonómico.",
+          "price": 30,
+          "stock": 40,
+          "category": "accesorios",
+          "thumbnail": "https://i.imgur.com/YOUR_IMAGE_41.jpg"
+        },
+         {
+          "title": "Cinturón Reebok Training",
+          "description": "Cinturón de entrenamiento ajustable para mayor estabilidad en levantamientos.",
+          "price": 55,
+          "stock": 15,
+          "category": "accesorios",
+          "thumbnail": "https://i.imgur.com/YOUR_IMAGE_42.jpg"
+        },
+
+        {
+              "title": "Nike Club Cap",
+              "description": "Gorra ajustable con diseño clásico y logo Nike bordado.",
+              "price": 45,
+              "stock": 30,
+              "category": "gorros",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_31.jpg"
+            },
+            {
+              "title": "Adidas Performance Cap",
+              "description": "Gorra transpirable con tecnología Climalite para absorber el sudor.",
+              "price": 40,
+              "stock": 25,
+              "category": "gorros",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_32.jpg"
+            },
+            {
+              "title": "New Era 59FIFTY Snapback",
+              "description": "Gorra de béisbol con visera plana y cierre ajustable.",
+              "price": 50,
+              "stock": 20,
+              "category": "gorros",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_33.jpg"
+            },
+            {
+              "title": "Puma Running Cap",
+              "description": "Gorra ligera y ergonómica ideal para entrenamientos.",
+              "price": 38,
+              "stock": 18,
+              "category": "gorros",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_34.jpg"
+            },
+            {
+              "title": "Under Armour Blitzing Cap",
+              "description": "Gorra ajustada con tejido elástico y tecnología HeatGear.",
+              "price": 42,
+              "stock": 22,
+              "category": "gorros",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_35.jpg"
+            },
+            {
+              "title": "Reebok Classic Beanie",
+              "description": "Gorro de lana para mantener la cabeza caliente en invierno.",
+              "price": 35,
+              "stock": 15,
+              "category": "gorros",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_36.jpg"
+            },
+          
+          
+             {
+              "title": "Nike Dri-FIT Training Pants",
+              "description": "Pantalón deportivo con tecnología Dri-FIT para mayor comodidad.",
+              "price": 90,
+              "stock": 25,
+              "category": "pantalones",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_25.jpg"
+            },
+             {
+              "title": "Adidas Tiro 23",
+              "description": "Pantalón ajustado con tecnología AEROREADY para absorción de sudor.",
+              "price": 85,
+              "stock": 30,
+              "category": "pantalones",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_26.jpg"
+            },
+            {
+              "title": "Puma Essentials Sweatpants",
+              "description": "Pantalón de algodón suave con bolsillos laterales y cintura ajustable.",
+              "price": 75,
+              "stock": 20,
+              "category": "pantalones",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_27.jpg"
+            },
+            {
+              "title": "Under Armour Challenger Pants",
+              "description": "Pantalón de entrenamiento con tejido ligero y transpirable.",
+              "price": 95,
+              "stock": 18,
+              "category": "pantalones",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_28.jpg"
+            },
+            {
+              "title": "Reebok Workout Ready Joggers",
+              "description": "Pantalón cómodo para entrenamientos y uso casual.",
+              "price": 80,
+              "stock": 22,
+              "category": "pantalones",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_29.jpg"
+            },
+            {
+              "title": "New Balance Athletics Track Pants",
+              "description": "Pantalón de poliéster con diseño atlético y ajuste cómodo.",
+              "price": 88,
+              "stock": 15,
+              "category": "pantalones",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_30.jpg"
+            },
+          
+            {
+              "title": "Nike Windrunner",
+              "description": "Campera liviana a prueba de viento con diseño clásico.",
+              "price": 120,
+              "stock": 15,
+              "category": "camperas",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_19.jpg"
+            },
+            {
+              "title": "Adidas Terrex Rain Jacket",
+              "description": "Campera impermeable ideal para actividades al aire libre.",
+              "price": 140,
+              "stock": 18,
+              "category": "camperas",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_20.jpg"
+            },
+             {
+              "title": "Puma Winter Puffer",
+              "description": "Campera acolchada con aislamiento térmico para el invierno.",
+              "price": 160,
+              "stock": 20,
+              "category": "camperas",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_21.jpg"
+            },
+             {
+              "title": "Under Armour Storm Jacket",
+              "description": "Campera repelente al agua con tecnología HeatGear.",
+              "price": 130,
+              "stock": 12,
+              "category": "camperas",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_22.jpg"
+            },
+             {
+              "title": "Reebok Classic Windbreaker",
+              "description": "Campera cortaviento con capucha ajustable y diseño retro.",
+              "price": 110,
+              "stock": 17,
+              "category": "camperas",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_23.jpg"
+            },
+            {
+              "title": "New Balance Softshell",
+              "description": "Campera resistente al viento y al agua con interior polar.",
+              "price": 135,
+              "stock": 14,
+              "category": "camperas",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_24.jpg"
+            },
+          
+          
+            {
+              "title": "Nike Sportswear Club Fleece",
+              "description": "Buzo de felpa suave con capucha y bolsillo frontal.",
+              "price": 80,
+              "stock": 20,
+              "category": "buzos",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_13.jpg"
+            },
+            {
+              "title": "Adidas Essentials Fleece",
+              "description": "Buzo de algodón con capucha y ajuste relajado.",
+              "price": 85,
+              "stock": 25,
+              "category": "buzos",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_14.jpg"
+            },
+            {
+              "title": "Puma Power Hoodie",
+              "description": "Buzo con capucha y logo Puma estampado en el frente.",
+              "price": 75,
+              "stock": 18,
+              "category": "buzos",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_15.jpg"
+            },
+            {
+              "title": "Under Armour Rival Fleece",
+              "description": "Buzo con capucha y tela de alto rendimiento para entrenamientos.",
+              "price": 90,
+              "stock": 22,
+              "category": "buzos",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_16.jpg"
+            },
+            {
+              "title": "Reebok Training Essentials",
+              "description": "Buzo deportivo ligero y cómodo para uso diario.",
+              "price": 78,
+              "stock": 30,
+              "category": "buzos",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_17.jpg"
+            },
+            {
+              "title": "New Balance Core Fleece",
+              "description": "Buzo casual de algodón con interior afelpado.",
+              "price": 82,
+              "stock": 24,
+              "category": "buzos",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_18.jpg"
+            },
+          
+          
+            {
+              "title": "Nike Dri-FIT",
+              "description": "Remera deportiva con tecnología Dri-FIT que absorbe el sudor.",
+              "price": 50,
+              "stock": 25,
+              "category": "remeras",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_7.jpg"
+            },
+            {
+              "title": "Adidas Climalite",
+              "description": "Remera liviana con tecnología Climalite para mantenerte fresco y seco.",
+              "price": 55,
+              "stock": 30,
+              "category": "remeras",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_8.jpg"
+            },
+            {
+              "title": "Under Armour HeatGear",
+              "description": "Remera de compresión con tecnología HeatGear para alto rendimiento.",
+              "price": 60,
+              "stock": 20,
+              "category": "remeras",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_9.jpg"
+            },
+             {
+              "title": "Puma Essential Tee",
+              "description": "Remera de algodón suave con logo Puma estampado.",
+              "price": 40,
+              "stock": 35,
+              "category": "remeras",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_10.jpg"
+            },
+             {
+              "title": "Reebok Training Tee",
+              "description": "Remera de entrenamiento con ajuste regular y tejido transpirable.",
+              "price": 48,
+              "stock": 28,
+              "category": "remeras",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_11.jpg"
+            },
+            {
+              "title": "New Balance NB Athletics",
+              "description": "Remera casual con diseño moderno y tela ligera.",
+              "price": 52,
+              "stock": 22,
+              "category": "remeras",
+              "thumbnail": "https://i.imgur.com/YOUR_IMAGE_12.jpg"
+            }                                            
+      
+      
+  ]
+  
+
